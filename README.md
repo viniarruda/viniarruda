@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Vini Avatar](https://i.ibb.co/4VJLLB2/vini-avatar-full.png=250x)
+
 ## Find me :boy:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniz-arruda)](https://www.linkedin.com/in/viniz-arruda)

@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![Vini Avatar](https://i.ibb.co/4VJLLB2/vini-avatar-full.png=250x)
+<p align="center">
+  <image src="https://i.ibb.co/4VJLLB2/vini-avatar-full.png" alt="Vini avatar" height="400" width="400" />
+</p>
+
 
 ## Find me :boy:
 

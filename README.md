@@ -4,6 +4,9 @@
   <image src="https://i.ibb.co/4VJLLB2/vini-avatar-full.png" alt="Vini avatar" height="400" width="400" />
 </p>
 
+🇺🇸 [English CV](https://github.com/viniarruda/resume/blob/master/README.en.md)
+
+🇧🇷 [Portuguese CV](https://github.com/viniarruda/resume)
 
 ## Find me :boy:
 

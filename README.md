@@ -8,6 +8,8 @@
 
 🇧🇷 [Portuguese CV](https://github.com/viniarruda/resume)
 
+I'm creating an E-commerce that can be reused for the developers to help new sellers to create their own shops. You can send new [Pull Requests](https://github.com/react-shop/react-ecommerce) to help with it.
+
 ## Find me :boy:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniz-arruda)](https://www.linkedin.com/in/viniz-arruda)

@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 
-My name is Vinicius Arruda, I'm from São Paulo/Brazil and currently work as Software Engineer. I love animes, games, baseball and basket. If you wanna know more about me, you can follow me in some social medias.
+My name is Vinicius Arruda, I'm from São Paulo/Brazil and currently work as Software Engineer. I love animes, games, baseball and basket. If you wanna know more about me, you can follow me in some social medias that you can find below.
 
 Also I'm creating an Open Source E-commerce that can be reused for the developers to help new sellers to create their own shops. You can send new [Pull Requests](https://github.com/react-shop/react-ecommerce) to help with it.
 

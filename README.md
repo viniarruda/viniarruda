@@ -18,4 +18,4 @@ I'm creating an E-commerce that can be reused for the developers to help new sel
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack%20Overflow-react--native%20help-yellowgreen)](https://stackoverflow.com/a/58885314/11896237)
 
 
- ![Snake animation](https://github.com/viniarruda/viniarruda/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/viniarruda/viniarruda/blob/output/github-contribution-grid-snake.svg)

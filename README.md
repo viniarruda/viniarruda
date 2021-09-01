@@ -21,7 +21,7 @@ I'm creating an E-commerce that can be reused for the developers to help new sel
   <img align="center" alt="viniarruda-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="viniarruda-Graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
   <img align="center" alt="viniarruda-Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-</div>tr
+</div>
 
 ## Find me :boy:
 

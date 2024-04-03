@@ -4,9 +4,9 @@ My name is Vinicius Arruda, I'm from São Paulo/Brazil, and currently work as a 
 
 Also, I'm creating an Open Source E-commerce that can be reused for the developers to help new sellers create their shops. You can send new [Pull Requests](https://github.com/react-shop/react-ecommerce) to help with it.
 
-<p align="center">
+<!-- <p align="center">
   <image align="right" src="https://i.ibb.co/4VJLLB2/vini-avatar-full.png" alt="Viniarruda avatar" height="400" width="400" />
-</p>
+</p> -->
 
 <div style="display: inline_block">
   <a href="https://github.com/viniarruda/resume/blob/master/README.en.md"> 
@@ -31,7 +31,7 @@ Also, I'm creating an Open Source E-commerce that can be reused for the develope
   <img align="center" alt="viniarruda-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="viniarruda-Graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
   <img align="center" alt="viniarruda-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="viniarruda-Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center" alt="viniarruda-Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="viniarruda-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 

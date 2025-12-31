@@ -26,7 +26,6 @@ I’m passionate about building things that help people and constantly exploring
 
 Here are some tools and technologies I use:
 
-```markdown
 **Languages:** JavaScript, TypeScript  
 **Frontend:** React, Next.js  
 **Mobile:** React Native  

@@ -1,8 +1,39 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
+# 👋 Hi there!
 
-My name is Vinicius Arruda, I'm from São Paulo/Brazil, and currently work as a Software Engineer. I love animes, games, toy photography, baseball, and basket. If you wanna know more about me, you can follow me on some social media that you can find below.
+I'm **Vinícius Arruda** — a **Software Engineer** from **São Paulo, Brazil** currently working at **Trace Finance**.  
+I’m passionate about building things that help people and constantly exploring new ideas in tech.
 
-Also, I'm creating an Open Source E-commerce that can be reused for the developers to help new sellers create their shops. You can send new [Pull Requests](https://github.com/react-shop/react-ecommerce) to help with it.
+---
+
+## 🔧 About Me
+
+- 💻 Software Engineer with experience building web and mobile applications  
+- 🚀 Creator of open-source projects, including a reusable **E-commerce platform** 
+- ❤️ Interests: **Anime**, **Gaming**, **Toy Photography**, **Baseball**, and **Basketball**
+
+---
+
+## 💡 What I’m Working On
+
+- 💼 Working with **fintech and crypto projects**, collaborating with a **global, distributed team**
+- 🛒 Building an **open-source E-commerce monorepo** that developers can reuse to help new sellers create their shops and grow their businesses  
+
+✨ Contributions are welcome — feel free to open issues or send pull requests!
+
+---
+
+## 🛠️ Tech Stack
+
+Here are some tools and technologies I use:
+
+```markdown
+**Languages:** JavaScript, TypeScript  
+**Frontend:** React, Next.js  
+**Mobile:** React Native  
+**Backend:** Node.js, Express, NestJS, GraphQL  
+**Database:** PostgreSQL  
+**Others:** Redux, Hooks, Design Systems
+
 
 <!-- <p align="center">
   <image align="right" src="https://i.ibb.co/4VJLLB2/vini-avatar-full.png" alt="Viniarruda avatar" height="400" width="400" />

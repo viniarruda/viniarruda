@@ -1,76 +1,86 @@
-# 👋 Hi there!
+# Hi, I'm Vinícius Arruda 👋
 
-I'm **Vinícius Arruda** — a **Software Engineer** from **São Paulo, Brazil** currently working at **Trace Finance**.  
-I’m passionate about building things that help people and constantly exploring new ideas in tech.
+Software Engineer based in São Paulo 🇧🇷, currently building fintech and crypto products at **[Trace Finance](https://www.trace.finance)** with a globally distributed team.
 
----
-
-## 🔧 About Me
-
-- 💻 Software Engineer with experience building web and mobile applications  
-- 🚀 Creator of open-source projects, including a reusable **E-commerce platform** 
-- ❤️ Interests: **Anime**, **Gaming**, **Toy Photography**, **Baseball**, and **Basketball**
+I care about clean architecture, reusable systems, and shipping things people actually use. I like Anime, gaming, toy photography, baseball and NBA
 
 ---
 
-## 💡 What I’m Working On
+### 🚀 What I'm building
 
-- 💼 Working with **fintech and crypto projects**, collaborating with a **global, distributed team**
-- 🛒 Building an **open-source E-commerce monorepo** that developers can reuse to help new sellers create their shops and grow their businesses  
-
-✨ Contributions are welcome — feel free to open issues or send pull requests!
+- 🛒 **Open-source e-commerce monorepo** — a reusable foundation for new sellers to launch and scale their shops. Issues and PRs welcome.
+- 💼 Day-to-day: fintech & crypto platforms at Trace Finance.
+- 📚 Always exploring: edge databases (ElectricSQL), local-first apps, and DX tooling.
 
 ---
 
-## 🛠️ Tech Stack
+### 🤖 Working with AI
 
-Here are some tools and technologies I use:
+I'm deep into AI-assisted development — **Claude Code** is part of my daily workflow.
 
-**Languages:** JavaScript, TypeScript  
-**Frontend:** React, Next.js  
-**Mobile:** React Native  
-**Backend:** Node.js, Express, NestJS, GraphQL  
-**Database:** PostgreSQL  
-**Others:** Redux, Hooks, Design Systems
+- Building **custom agents, slash commands, and hooks** to automate planning, reviewing, and scaffolding.
+- Designing **multi-agent code review** (specialist reviewers for security, conventions, logic, tests) to raise the floor on PR quality.
+- Sharing what works (and what doesn't) — prompt design, agent orchestration, and where AI still falls short in real codebases.
 
+If you're building tooling around Claude Code, the Anthropic SDK, or agent workflows, I'd love to compare notes.
 
-<!-- <p align="center">
-  <image align="right" src="https://i.ibb.co/4VJLLB2/vini-avatar-full.png" alt="Viniarruda avatar" height="400" width="400" />
-</p> -->
+#### 🧩 Lins Flow — visual orchestration for AI agents
 
-<div style="display: inline_block">
-  <a href="https://github.com/viniarruda/resume/blob/master/README.en.md"> 
-     <img align="center" alt="viniarruda-Js" height="30" width="40" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/us.svg">
-    English CV
-  </a>
-  <a href="https://github.com/viniarruda/resume">
-    <img align="center" alt="viniarruda-Js" height="30" width="40" src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/br.svg">
-    Portuguese CV
-  </a>
-</div>
+I'm build a AI project called, Lins Flow. That is a desktop app where you compose **multi-step AI workflows on a node-based canvas**, instead of writing prompts ad-hoc.
 
-# Knowledges
+You drop blocks on a board — **triggers**, **pipelines**, **artifacts**, **repositories**, **agent pools**, **context** — connect them with edges, and each pipeline runs Claude Code locally with the skills, agents, and context you wired in. Outputs flow downstream as typed artifacts (subtasks, code, PRs, reviews), so a real feature can be expressed as `Plan → Execute → Review → PR`, parallelized across subtasks, and re-run from any failed step.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="viniarruda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="viniarruda-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="viniarruda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="viniarruda-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="viniarruda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="viniarruda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="viniarruda-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="viniarruda-Graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="viniarruda-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="viniarruda-Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="viniarruda-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-</div>
+Under the hood:
+- ⚛️ **Electron + React 19** renderern **XY Flow**
+- ⚡ **Fastify + PostgreSQL + ElectricSQL** backend with WAL-streamed local-first sync
+- 🔌 **TanStack DB + Socket.IO** for ptimistic writes and ACK-requiredmutations
+- 🧠 **Local Claude CLI execution** via `node-pty`, with an MCP server bridging tool calls back into the app
 
-## Find me :boy:
+It's a real engineering exercise in **local-first architecture, multi-user realtime sync, and DAG-based execution** — the kind of system where a single SSOT decision in the wrong place ripples for weeks.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniz-arruda)](https://www.linkedin.com/in/viniz-arruda)
-[![Twitter Badge](https://img.shields.io/twitter/follow/viniz_arruda?label=Follow&style=social)](https://twitter.com/viniz_arruda)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniarruda.souza@gmail.com)](mailto:viniarruda.souza@gmail.com)
-[![Stackoverflow Badge](https://img.shields.io/badge/Stack%20Overflow-react--native%20help-yellowgreen)](https://stackoverflow.com/a/58885314/11896237)
+### 🧰 Frontend toolkit
 
-<!-- ![Snake animation](https://github.com/viniarruda/viniarruda/blob/output/github-contribution-grid-snake.svg) -->
+What I reach for when starting or scaling a frontend project today:
 
+- **Languages:** TypeScript, JavaScript, Kotlin
+- **Frameworks:** Next.js, React, React Native, TanStack Start, Electron
+- **State & data:** Zustand, TanStack
+- **Forms & validation:** React Hook Form, Zod, Yup
+- **Styling:** Tailwind CSS, styled-components, PandaCss, StitchsJS, Design Systems
+- **i18n:** next-i18next
+- **Auth:** NextAuth.js, JWT, OAuth
+- **Testing:** Jest, Vitest, React Testing Library, Playwright
+- **Quality & DX:** ESLint, Prettier, Biome, Husky
+- **Monorepo & build:** pnpm workspaces, Turborepo, Vite, esbuild
+- **Backend (when needed):** Node.js, NestJS, Express, Fastify, GraphQL, Ktor
+- **Databases:** PostgreSQL, SQLite, ElectricSQL, Drizzle ORM, Prisma
+- **CI/CD:** GitHub Actions, Vercel, Railway, Docker
+- **Observability:** Sentry, Datadog
+- **AI tooling:** Claude Code, MCP servers, agent orchestration
+
+---
+
+### 📊 GitHub stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=viniarruda&show_icons=true&
+hide_border=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniarruda&layou
+t=compact&hide_border=true&theme=toky
+</p>
+
+---
+
+### 📄 Resume
+
+- 🇺🇸 [English CV](https://github.com/viniarruda/resume/blob/master/README.en.md)
+- 🇧🇷 [Portuguese CV](https://github.c
+
+---
+
+### 📫 Find me
+
+- **LinkedIn:** [viniz-arruda](https://www.linkedin.com/in/viniz-arruda)
+- **X / Twitter:** [@viniz_arruda](https://twitter.com/viniz_arruda)
+- **Email:** [viniarruda.souza@gmail.com](mailto:viniarruda.souza@gmail.com)
+- **Stack Overflow:** [profile](https://stackoverflow.com/a/58885314/11896237)

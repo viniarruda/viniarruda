@@ -74,7 +74,7 @@ t=compact&hide_border=true&theme=toky
 ### 📄 Resume
 
 - 🇺🇸 [English CV](https://github.com/viniarruda/resume/blob/master/README.en.md)
-- 🇧🇷 [Portuguese CV](https://github.c
+- 🇧🇷 [Portuguese CV](https://github.com/viniarruda/resume/blob/master/README.md)
 
 ---
 

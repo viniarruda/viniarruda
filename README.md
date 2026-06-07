@@ -74,7 +74,7 @@ What I reach for when starting or scaling a frontend project today:
 ### 📊 GitHub stats
 
 <p>
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniarruda&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniarruda&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viniarruda&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 

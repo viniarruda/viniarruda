@@ -67,7 +67,7 @@ What I reach for when starting or scaling a frontend project today:
 - **Databases:** PostgreSQL, SQLite, ElectricSQL, Drizzle ORM, Prisma
 - **CI/CD:** GitHub Actions, Vercel, Railway, Docker
 - **Observability:** Sentry, Datadog
-- **AI tooling:** Claude Code, MCP servers, agent orchestration
+- **AI tooling:** Claude Code, MCP servers, agent orchestration, LangChain, LangGraph, LLM
 
 ---
 

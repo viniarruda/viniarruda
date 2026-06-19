@@ -8,8 +8,9 @@ I care about clean architecture, reusable systems, and shipping things people ac
 
 ### 🚀 What I'm building
 
+- 🧪 **[Mad Labs](https://madlabstech.com)** — my indie product lab ("a lab for builders, turning ideas into products"), home of TBHelper and the open-source tbh-meter.
 - ⚔️ **[TBHelper](https://tbherohelper.com)** — wiki + real-time DPS meter for the game *Task Bar Hero*.
-- 🛒 **Open-source e-commerce monorepo** — a reusable foundation for new sellers to launch and scale their shops. Issues and PRs welcome.
+- 🛒 **[react-shop](https://github.com/viniarruda/react-ecommerce)** — open-source, white-label e-commerce monorepo. Clone it, set your brand in one file, and deploy. Issues and PRs welcome.
 - 💼 Day-to-day: fintech & crypto platforms at Trace Finance.
 - 📚 Always exploring: edge databases (ElectricSQL), local-first apps, and DX tooling.
 
@@ -41,13 +42,23 @@ It's a real engineering exercise in **local-first architecture, multi-user realt
 
 #### ⚔️ TBHelper — wiki + DPS meter for Task Bar Hero
 
-**[tbherohelper.com](https://tbherohelper.com)** is a full product I built for the game *Task Bar Hero*: a datamined wiki (items, builds, monsters, leaderboards) plus a desktop **DPS meter overlay** that reads the game's memory in real time.
+**[tbherohelper.com](https://tbherohelper.com)** is a full product I built under **[Mad Labs](https://madlabstech.com)** for the game *Task Bar Hero*: a datamined wiki (items, builds, monsters, leaderboards) plus a desktop **DPS meter overlay** that reads the game's memory in real time.
 
 - 🌐 **Wiki:** TanStack Start (React 19) + Vite SSR, Tailwind v4, Supabase (auth + Postgres with RLS), crawlable in **16 languages** with hreflang
 - 🛰️ **API:** Hono on Node.js (Railway) — leaderboards, run ingest, Discord integration
-- 🖥️ **Meter:** Electron overlay + Python memory-reader sidecar (`ReadProcessMemory` + IL2CPP class resolution) tracking DPS, gold, deaths/revives and chest drops per run — [public releases](https://github.com/mad-labs-org/tbh-meter-releases)
+- 🖥️ **Meter:** Electron overlay + Python memory-reader sidecar (`ReadProcessMemory` + IL2CPP class resolution) tracking DPS, gold, deaths/revives and chest drops per run — now **[open-source (MIT)](https://github.com/mad-labs-org/tbh-meter)** · [public releases](https://github.com/mad-labs-org/tbh-meter-releases)
 - 🚀 **Release pipeline:** tag-driven conventional-commit versioning with a 3-stage RC flow (stage → draft release → promote) and side-by-side RC installs
 - 🧪 Reverse-engineering work: IL2CPP metadata resolution (~9x faster cold start via RVA + TypeInfoTable), `.es3` save decryption, CSV TextAsset datamining
+
+#### 🛒 react-shop — open-source white-label e-commerce
+
+**[react-shop](https://github.com/viniarruda/react-ecommerce)** is a production-ready, white-label e-commerce boilerplate built on a **Turborepo monorepo**: clone it, configure your brand in a single file, and deploy a full store — storefront, admin dashboard, and REST API.
+
+- 🛍️ **Storefront:** Next.js 14 + React 19, Tailwind CSS v4, React Hook Form, TanStack Query v5
+- 🛠️ **Admin:** product, order and review management dashboard
+- 🔌 **API:** NestJS + Prisma 7 + PostgreSQL
+- 📦 **Tooling:** Turborepo, pnpm, ESLint 9, Storybook 8, Docker Compose
+- 🌟 MIT-licensed and community-driven — issues and PRs welcome
 
 ### 🧰 Frontend toolkit
 

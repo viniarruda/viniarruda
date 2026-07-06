@@ -1,5 +1,7 @@
 # Hi, I'm Vinícius Arruda 👋
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=viniarruda.viniarruda)
+
 Software Engineer based in São Paulo 🇧🇷, currently building fintech and crypto products at **[Trace Finance](https://www.trace.finance)** with a globally distributed team.
 
 I care about clean architecture, reusable systems, and shipping things people actually use. I like Anime, gaming, toy photography, baseball and NBA

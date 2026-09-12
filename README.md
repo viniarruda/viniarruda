@@ -2,7 +2,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=viniarruda.viniarruda)
 
-Software Engineer based in São Paulo 🇧🇷, currently building fintech and crypto products at **[Trace Finance](https://www.trace.finance)** with a globally distributed team.
+Tech Lead based in São Paulo 🇧🇷, currently building fintech and crypto products at **[Trace Finance](https://www.trace.finance)** with a globally distributed team.
 
 I care about clean architecture, reusable systems, and shipping things people actually use. I like Anime, gaming, toy photography, baseball and NBA
 
@@ -13,7 +13,7 @@ I care about clean architecture, reusable systems, and shipping things people ac
 - 🧪 **[Mad Labs](https://madlabstech.com)** — my indie product lab ("a lab for builders, turning ideas into products"), home of TBHelper and the open-source tbh-meter.
 - ⚔️ **[TBHelper](https://tbherohelper.com)** — wiki + real-time DPS meter for the game *Task Bar Hero*.
 - 🛒 **[react-shop](https://github.com/viniarruda/react-ecommerce)** — open-source, white-label e-commerce monorepo. Clone it, set your brand in one file, and deploy. Issues and PRs welcome.
-- 💼 Day-to-day: fintech & crypto platforms at Trace Finance.
+- 💼 Day-to-day: leading frontend architecture and delivery across squads at Trace Finance (fintech & crypto)
 - 📚 Always exploring: edge databases (ElectricSQL), local-first apps, and DX tooling.
 
 ---
